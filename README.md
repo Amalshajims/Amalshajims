@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMAL SHAJI</h1>
 <h3 align="center">JUST A HACKER</h3>
-<img align="left" src="https://giffiles.alphacoders.com/219/219518.gif" style="height: 320px; width: 520px; border: 2px solid #000;" alt="GIF Image">
+<img align="left" src="https://i.pinimg.com/originals/a7/f2/de/a7f2dea820e274a1aef0c6eba18ebb8d.gif" style="height: 320px; width: 520px; border: 2px solid #000;" alt="GIF Image">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalshajims&label=Profile%20views&color=0e75b6&style=flat" alt="amalshajims" /> </p>
